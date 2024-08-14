@@ -87,7 +87,7 @@ Author URL: http://w3layouts.com
                     <div class="container">
                         <div class="banner-info header-hero-19">
                             <p class="w3hny-tag">Make <?php echo date("d/m/y"); ?>.</p>
-                            <h3 class="title-hero-19">Moving your products across all borders.</h3>
+                            <h3 class="title-hero-19">l borders.</h3>
                             <a href="about.html" class="btn btn-style btn-primary mt-4">Learn More </a>
 
                         </div>
